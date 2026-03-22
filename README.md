@@ -1,22 +1,39 @@
-# transaction_app
+# 📱 Transaction App
 
-A new Flutter project.
+A Flutter-based transaction UI app with clean design and modern components.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 💳 Transaction List UI
+- 📊 Bottom Sheet Details Screen
+- 🎨 Clean & Modern Design
+- 🔍 Search Bar UI
+- 📂 Category Dropdown
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
 
-![Screenshot_2026-03-22-16-43-15-54_b9651c44d09d2f02ac2f73df81ddddee jpg](https://github.com/user-attachments/assets/c06182f1-8b01-4984-9d26-318beb1e902b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c06182f1-8b01-4984-9d26-318beb1e902b" width="250"/>
+  <img src="https://github.com/user-attachments/assets/6db88850-4ab4-4528-8360-aa73ff07fab2" width="250"/>
+</p>
 
+---
 
-![Screenshot_2026-03-22-16-43-12-39_b9651c44d09d2f02ac2f73df81ddddee jpg](https://github.com/user-attachments/assets/6db88850-4ab4-4528-8360-aa73ff07fab2)
+## 🛠️ Tech Stack
 
+- Flutter
+- Dart
+
+---
+
+## 📦 Getting Started
+
+```bash
+git clone https://github.com/your-username/transaction_app.git
+cd transaction_app
+flutter pub get
+flutter run
