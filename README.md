@@ -1,20 +1,10 @@
-# 📱 Transaction App
+Transaction App
 
 A Flutter-based transaction UI app with clean design and modern components.
 
----
 
-## 🚀 Features
 
-- 💳 Transaction List UI
-- 📊 Bottom Sheet Details Screen
-- 🎨 Clean & Modern Design
-- 🔍 Search Bar UI
-- 📂 Category Dropdown
-
----
-
-## 📸 Screenshots
+Screenshots
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c06182f1-8b01-4984-9d26-318beb1e902b" width="250"/>
@@ -23,14 +13,14 @@ A Flutter-based transaction UI app with clean design and modern components.
 
 ---
 
-## 🛠️ Tech Stack
+Tech Stack
 
 - Flutter
 - Dart
 
 ---
 
-## 📦 Getting Started
+Getting Started
 
 ```bash
 git clone https://github.com/your-username/transaction_app.git
